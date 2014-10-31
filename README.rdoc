@@ -1,9 +1,9 @@
-== Ruby on Rails + angular ==
+== Ruby on Rails + angular
 
-<h3>Reference</h3>
+Reference :
 
-<ol>
-<li>http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html</li>
-<li>http://asanderson.org/posts/2013/06/23/bootstrapping-angular-rails-part-2.html</li>
-<li>http://asanderson.org/posts/2013/08/19/bootstrapping-angular-rails-part-3.html</li>
-</ol>
+* http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html
+
+* http://asanderson.org/posts/2013/06/23/bootstrapping-angular-rails-part-2.html
+
+* http://asanderson.org/posts/2013/08/19/bootstrapping-angular-rails-part-3.html
